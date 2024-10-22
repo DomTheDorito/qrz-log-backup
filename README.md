@@ -14,5 +14,5 @@ can easily be changed in the "BACKUP_COUNT" variable.
 If you'd like this to run nightly, you can use the following crontab *example*. Please change the 
 minute and hour values (first and second number) as to not overload the QRZ servers at once.
 
-0 3 * * * /path/to/python3 /path/to/QRZBackup1.0.0.py
+`0 3 * * * /path/to/python3 /path/to/QRZBackup1.0.0.py`
 
