@@ -16,3 +16,7 @@ minute and hour values (first and second number) as to not overload the QRZ serv
 
 `0 3 * * * /path/to/python3 /path/to/QRZBackup1.0.0.py`
 
+# NEW!
+Now included with the QRZ Log Backup is Local Logger! 
+
+Local Logger is an offline, web-based ADIF viewer to see your most recent backups!
